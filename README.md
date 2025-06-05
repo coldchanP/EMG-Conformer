@@ -344,7 +344,7 @@ This project is a research that applies the EEG-Conformer idea to EMG signal pro
 
 ## Update History
 
-### v1.0.0 (2024-01-XX)
+### v1.0.0 (2025-06-05)
 - Initial release based on EEG-Conformer adapted for EMG
 - 4-channel EMG real-time classification system
 - EMG Conformer model implementation
